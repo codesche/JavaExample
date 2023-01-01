@@ -3,3 +3,4 @@
 
 * [1. MyDate-클래스](https://github.com/codesche/JavaExample/blob/main/MyDate.java)
 * [2. 자기소개](https://github.com/codesche/JavaExample/blob/main/Introduce.java)
+* [3. 프로필](https://github.com/codesche/JavaExample/blob/main/Introduce.java)
