@@ -8,3 +8,4 @@
 * [5. 식사비 계산](https://github.com/codesche/JavaExample/blob/main/BobGap.java)
 * [6. 급여 계산기](https://github.com/codesche/JavaExample/blob/main/Alba.java)
 * [7. 환전](https://github.com/codesche/JavaExample/blob/main/HwanJun.java)
+* [8. 성적 계산기](https://github.com/codesche/JavaExample/blob/main/Score.java) 
