@@ -9,3 +9,4 @@
 * [6. 급여 계산기](https://github.com/codesche/JavaExample/blob/main/Alba.java)
 * [7. 환전](https://github.com/codesche/JavaExample/blob/main/HwanJun.java)
 * [8. 성적 계산기](https://github.com/codesche/JavaExample/blob/main/Score.java) 
+* [9. 비만도 검사](https://github.com/codesche/JavaExample/blob/main/CheckObesity.java)
