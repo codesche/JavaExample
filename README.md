@@ -13,3 +13,4 @@
 * [10. 2021년 7월의 요일 출력](https://github.com/codesche/JavaExample/blob/main/DayOfJuly.java)
 * [11. 시간 출력](https://github.com/codesche/JavaExample/blob/main/TimeExample.java)
 * [12. 반복문 예제 1](https://github.com/codesche/JavaExample/blob/main/Loop1.java)
+* [13. 반복문 예제 2-누적합](https://github.com/codesche/JavaExample/blob/main/Loop2.java)
