@@ -17,3 +17,4 @@
 * [14. 반복문 예제 3](https://github.com/codesche/JavaExample/blob/main/Loop3.java)
 * [15. 반복문 예제 4-파일 생성](https://github.com/codesche/JavaExample/blob/main/Loop4.java)
 * [16. 반복문 예제 4-파일 생성(배열 활용)](https://github.com/codesche/JavaExample/blob/main/Loop4_2.java)
+* [17. 소수 구하는 로직](https://github.com/codesche/JavaExample/blob/main/Prime.java)
