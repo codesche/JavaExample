@@ -20,3 +20,4 @@
 * [17. 소수 구하는 로직](https://github.com/codesche/JavaExample/blob/main/Prime.java)
 * [18. 반복문 예제 5](https://github.com/codesche/JavaExample/blob/main/Loop5.java)
 * [19. 반복문 예제 6](https://github.com/codesche/JavaExample/blob/main/ex1.java)
+* [20. 반복문 예제 7](https://github.com/codesche/JavaExample/blob/main/ex2.java)
