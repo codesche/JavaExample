@@ -24,3 +24,4 @@
 * [21. 배열 예제 1](https://github.com/codesche/JavaExample/blob/main/array1.java)
 * [22. 배열 예제 2](https://github.com/codesche/JavaExample/blob/main/array2.java)
 * [23. 배열 예제 3](https://github.com/codesche/JavaExample/blob/main/array3.java)
+* [24. 배열 예제 4](https://github.com/codesche/JavaExample/blob/main/array4.java)
