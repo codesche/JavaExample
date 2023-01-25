@@ -21,3 +21,4 @@
 * [18. 반복문 예제 5](https://github.com/codesche/JavaExample/blob/main/Loop5.java)
 * [19. 반복문 예제 6](https://github.com/codesche/JavaExample/blob/main/ex1.java)
 * [20. 반복문 예제 7](https://github.com/codesche/JavaExample/blob/main/ex2.java)
+* [21. 배열 예제 1](https://github.com/codesche/JavaExample/blob/main/array1.java)
