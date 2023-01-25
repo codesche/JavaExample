@@ -23,3 +23,4 @@
 * [20. 반복문 예제 7](https://github.com/codesche/JavaExample/blob/main/ex2.java)
 * [21. 배열 예제 1](https://github.com/codesche/JavaExample/blob/main/array1.java)
 * [22. 배열 예제 2](https://github.com/codesche/JavaExample/blob/main/array2.java)
+* [23. 배열 예제 3](https://github.com/codesche/JavaExample/blob/main/array3.java)
