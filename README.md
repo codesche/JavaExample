@@ -26,3 +26,4 @@
 * [23. 배열 예제 3](https://github.com/codesche/JavaExample/blob/main/array3.java)
 * [24. 배열 예제 4](https://github.com/codesche/JavaExample/blob/main/array4.java)
 * [25. 배열 예제 5](https://github.com/codesche/JavaExample/blob/main/array5.java)
+* [26. 배여 예제 6](https://github.com/codesche/JavaExample/blob/main/array6.java)
