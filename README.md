@@ -28,3 +28,4 @@
 * [25. 배열 예제 5](https://github.com/codesche/JavaExample/blob/main/array5.java)
 * [26. 배열 예제 6](https://github.com/codesche/JavaExample/blob/main/array6.java)
 * [27. 배열 예제 7](https://github.com/codesche/JavaExample/blob/main/array7.java)
+* [28. 가위, 바위, 보-배열 예제](https://github.com/codesche/JavaExample/blob/main/RockPaperScissors.java)
